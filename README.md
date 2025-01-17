@@ -2,9 +2,6 @@
 
 ### Profile version  July 7th 2020
 
-HEY
-:   daisuke
-
 twitter
 :   [daisuke](https://twitter.com/daisuke)
 
