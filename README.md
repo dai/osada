@@ -2,8 +2,8 @@
 
 ### Profile version  July 7th 2020
 
-twitter
-:   [daisuke](https://twitter.com/daisuke)
+x
+:   [daisuke](https://x.com/daisuke)
 
 medium
 :   [daisuke](https://medium.com/daisuke)
