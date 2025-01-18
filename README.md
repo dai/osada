@@ -2,7 +2,7 @@
 
 ### Profile version  Jan 19th 2025
 
-x
+x/Twitter
 :   [daisuke](https://x.com/daisuke)
 
 medium
