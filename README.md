@@ -13,6 +13,3 @@ Instagram
 
 Linkedin
 :   [osada](https://linkedin.com/in/osada)
-
-Facebook
-:   [daiskeh](https://facebook.com/daiskeh)
