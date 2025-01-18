@@ -1,12 +1,12 @@
-# about
+# who are you dai?
 
-### Profile version  July 7th 2020
+### Profile version  Jan 19th 2025
 
 x
 :   [daisuke](https://x.com/daisuke)
 
 medium
-:   [daisuke](https://medium.com/daisuke)
+:   [daisuke](https://medium.com/@daisuke)
 
 Instagram
 :   [daisukeosada](https://instagram.com/daisukeosada)
