@@ -12,3 +12,12 @@ Instagram
 
 Linkedin
 :   [osada](https://linkedin.com/in/osada)
+
+memo: vercel name server
+     `A @ 76.76.21.21`
+     
+
+```
+ns1.vercel-dns.com
+ns1.vercel-dns.com
+```
