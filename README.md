@@ -7,7 +7,6 @@ x/Twitter
 
 medium
 :   [daisuke](https://medium.com/@daisuke)
-
 Instagram
 :   [daisukeosada](https://instagram.com/daisukeosada)
 
