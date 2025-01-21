@@ -1,6 +1,6 @@
 # who are you dai?
 
-### Profile version  Jan 19th 2025
+### Profile version  Jan 21st 2025
 
 x/Twitter
 :   [daisuke](https://x.com/daisuke)
